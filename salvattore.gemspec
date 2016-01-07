@@ -6,11 +6,11 @@ require 'salvattore/version'
 Gem::Specification.new do |spec|
   spec.name          = "salvattore"
   spec.version       = Salvattore::VERSION
-  spec.authors       = ["ksalmon"]
+  spec.authors       = ["Rolando Murillo and Giorgio Leveroni"]
   spec.email         = ["kyleraysalmon@gmail.com"]
-  spec.summary       = %q{A gem for the jQuery framework Salvattore}
-  spec.description   = %q{Includes the full jQuery file}
-  spec.homepage      = ""
+  spec.summary       = %q{A gem for the jQuery plugin Salvattore}
+  spec.description   = %q{A jQuery Masonry alternative with CSS-driven configuration}
+  spec.homepage      = "http://salvattore.com/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
