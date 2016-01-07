@@ -1,6 +1,6 @@
 # Salvattore
 
-TODO: Write a gem description
+A gem for the jQuery framework Salvattore
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Includes the full jQuery file
 
 ## Contributing
 
