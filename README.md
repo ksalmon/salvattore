@@ -1,6 +1,11 @@
 # Salvattore
-
+__A jQuery Masonry alternative with CSS-driven configuration__
+___
 A gem for the jQuery framework Salvattore
+Made by Rolando Murillo and Giorgio Leveroni.
+
+[Offical Website](http://salvattore.com/)
+[Give them a pat on the back!](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=EmWyp-KAjHLt9ak_VVFlO2-wJcE6xpmQS3iV94wftWICqjmFmNS23hXsTCK&dispatch=5885d80a13c0db1f8e263663d3faee8d64ad11bbf4d2a5a1a0d303a50933f9b2)
 
 ## Installation
 
